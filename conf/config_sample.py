@@ -197,5 +197,6 @@ NOTIFY_EMAIL_USERNAME = ''    # E-Mail server SMTP Logon
 NOTIFY_EMAIL_PASSWORD = ''
 NOTIFY_EMAIL_USETLS = True
 
+### 捐赠给币作者？还是捐赠给钱包作者？
 #### Extra EMC2 Settings ####
 EXTRA_DONATION = 0 # How many additonal units of EMC2 should be donated to the charity address.
